@@ -1,0 +1,14 @@
+a {
+
+     
+    color: rgb(39, 9, 206);
+    background-color: rgb(139, 103, 255);
+    
+
+    
+}
+
+.active-link {
+    /* color: blue; */
+    background-color:  rgb(139, 103, 255);
+}
